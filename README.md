@@ -18,7 +18,7 @@ You can find better working examples in Nabava.net apps for both iOS and Android
 ---
 
 ####Closed example####
-![Closed](https://github.com/maranbomater/react-native-toggle/blob/master/src/closed.png "Closed list")
+![Closed](https://github.com/maranbomater/react-native-toggle/blob/master/src/example_gif.gif "Closed list")
 ---
 
 ####Opened example####
