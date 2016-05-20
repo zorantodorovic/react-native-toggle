@@ -7,7 +7,7 @@ You can find better working examples in Nabava.net apps for both iOS and Android
 
 [Android](https://play.google.com/store/apps/details?id=com.nabava_net)
 
-###Example###
+###Install###
 
 ```
 	> git clone git@github.com:maranbomater/react-native-toggle.git
