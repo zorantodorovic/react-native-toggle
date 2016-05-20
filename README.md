@@ -10,4 +10,5 @@ This is a toggle example for React Native. Keep in mind that component is under 
 	> Xcode: hit build and run
 
 ```
+![Closed](https://github.com/maranbomater/react-native-toggle/blob/master/src/closed.png "Closed list")
 ![Opened](https://github.com/maranbomater/react-native-toggle/blob/master/src/opened.png "Opened list")
