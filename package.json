@@ -2,6 +2,14 @@
   "name": "RN_Toggle",
   "version": "0.0.1",
   "private": true,
+  "description": "React Native toggle example",
+  "homepage": "http://arsfutura.co/",
+  "author": "Zoran Todorovic <zoran336@gmail.com>",
+  "company": "Ars Futura",
+  "keywords": [
+    "react-native",
+    "toggle",
+  ],
   "scripts": {
     "start": "react-native start"
   },
