@@ -1,0 +1,3 @@
+rootProject.name = 'RN_Toggle'
+
+include ':app'
