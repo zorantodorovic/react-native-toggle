@@ -10,5 +10,4 @@ This is a toggle example for React Native. Keep in mind that component is under 
 	> Xcode: hit build and run
 
 ```
-
 ![Opened](screenshots/src/opened.png "Opened list")
